@@ -19,4 +19,4 @@ This "story" we'll focus on support discovery of adapters, and how to launch Pha
 
 - Design the part of the domain involved in the discovery process.
 - Support current JSON-based configuration format.
-- Launch PHaroEDA-Adapters.
+- Launch PharoEDA-Adapters.
